@@ -1,4 +1,4 @@
-#SmartCleaning
+# SmartCleaning
 
 Smart Cleaning automates the complete LDGH cleaning pipeline, including the steps:
 - Remove chr 0
