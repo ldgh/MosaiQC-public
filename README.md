@@ -9,6 +9,12 @@ Smart Cleaning automates the complete LDGH cleaning pipeline, including the step
 - Anotate the variants for DBSNP ID
 - LiftOver
 
+#Beta testers
+Mateus Gouveia (NHGRI/NIH)
+Esteban Parra group (University of Toronto)
+Marilia Scliar (Mayana Zatz group, University of Sao Paulo)
+
+
 ## Requirements
 Smart Cleaning script was implemented using python language. But the following programs are required:
 - Plink
