@@ -10,7 +10,7 @@ Smart Cleaning automates the complete LDGH cleaning pipeline, including the step
 - LiftOver
 
 Beta testers: 
-Mateus Gouveia (NHGRI/NIH),
+Mateus Gouveia (Rotimi's group, NHGRI/NIH),
 Esteban Parra group (University of Toronto),
 Marilia Scliar (Mayana Zatz group, University of Sao Paulo)
 
