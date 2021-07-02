@@ -12,8 +12,8 @@ Smart Cleaning automates the complete LDGH cleaning pipeline, including the step
 Beta testers: 
 Mateus Gouveia (Rotimi's group, NHGRI/NIH),
 Esteban Parra group (University of Toronto),
-Marilia Scliar (Mayana Zatz group, University of Sao Paulo)
-Ignacio Mata Lab, Genomic Medicine Institute (Cleveland Clinics, OH, US)
+Marilia Scliar (Mayana Zatz group, University of Sao Paulo),
+Ignacio Mata Lab at the Genomic Medicine Institute (Cleveland Clinics, OH, US)
 
 
 ## Requirements
