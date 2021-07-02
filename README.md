@@ -13,6 +13,7 @@ Beta testers:
 Mateus Gouveia (Rotimi's group, NHGRI/NIH),
 Esteban Parra group (University of Toronto),
 Marilia Scliar (Mayana Zatz group, University of Sao Paulo)
+Ignacio Mata Lab, Genomic Medicine Institute (Cleveland Clinics, OH, US)
 
 
 ## Requirements
