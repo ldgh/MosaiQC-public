@@ -1,6 +1,6 @@
 # MosaiQC
 
-Smart Cleaning automates the complete LDGH cleaning pipeline, including the steps:
+MosaiQC automates the complete LDGH cleaning pipeline, including the steps:
 - Remove chr 0
 - Remove duplicate data
 - Remove missing data
