@@ -9,7 +9,7 @@ Smart Cleaning automates the complete LDGH cleaning pipeline, including the step
 - Anotate the variants for DBSNP ID
 - LiftOver
 
-Beta testers: 
+Users: 
 Mateus Gouveia (Rotimi's group, NHGRI/NIH),
 Esteban Parra group (University of Toronto),
 Marilia Scliar (Mayana Zatz group, University of Sao Paulo),
