@@ -6,6 +6,7 @@ MosaiQC automates the complete LDGH cleaning pipeline, including the steps:
 - Remove missing data
 - Infer individual sex
 - Remove A|T and C|G variants
+- Remove 100% heterozygotes variants
 - Anotate the variants for DBSNP ID
 - LiftOver
 
